@@ -1,15 +1,11 @@
 # multiscale_search
 
-Hello! Enjoy your time here and please don't step on the grass.
 
 # ----------------------------
 
-Simulation of paper by Carpin, Burch, Chung (2011) regarding multiscale search using probabilistic quadtrees.
+Simulation of paper by Carpin, Chung (2011) regarding multiscale search using probabilistic quadtrees:
+T. H. Chung and S. Carpin, "Multiscale search using probabilistic quadtrees," 2011 IEEE International Conference on Robotics and Automation, 2011, pp. 2546-2553, doi: 10.1109/ICRA.2011.5980262.
 
 Language: MATLAB
 
-HOWTO: Run main.m
-
-REFERENCES: Find original paper ./pdf/carpin2011.pdf
-
-REGARDS, Shourya
+To execute code, run main.m
